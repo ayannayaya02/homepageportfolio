@@ -47,6 +47,29 @@ font-family: 'Comforter', sans-serif;
   text-transform: capitalize;
 }
 
+.container{
+    text-align:center;
+}
+
+.hero{
+    text-align:center;
+    padding:160px 15px;
+    
+}
+.hero h1{
+    color:goldenrod;
+}
+
+.hero h2{
+    font-size:24px;
+    color:goldenrod;
+}
+
+.hero p{
+    font-weight:bold;
+    
+}
+
 
 .index.links{
     text-align:center;
