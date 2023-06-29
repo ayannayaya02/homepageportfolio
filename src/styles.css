@@ -1,0 +1,60 @@
+
+
+h1 {
+font-family: 'Indie Flower', cursive;
+font-family: 'Comforter', sans-serif;
+text-align:center;
+font-weight:bold;
+}
+
+p{
+font-family: 'Bebas Neue', sans-serif;
+background:#f5f2fe;
+    font-weight:normal;
+    text-align:center;
+     padding: 20px;
+  border-radius: 4px;
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.contact{
+    font-family: 'Indie Flower', cursive;
+font-family: 'Comforter', sans-serif;
+    font-weight:normal;
+}
+
+.passions,
+.contact,
+.about,
+.index{
+    color:gold;
+}
+
+.passion-link,
+.contact-link,
+.about-link,
+.about-home,
+.about-passions,
+.email
+{
+     color: #f5f2fe;
+  border: 1px solid;
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+
+
+.index.links{
+    text-align:center;
+    color:pink;
+  border: 1px solid;
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+
